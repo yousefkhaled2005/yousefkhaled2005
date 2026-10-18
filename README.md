@@ -1,29 +1,57 @@
 <div align="center">
-  <!-- Dragon / Fire Dynamic Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,10,25&height=260&section=header&text=🐉%20YOUSEF%20KHALED%20🔥&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=SENIOR%20AI%20SYSTEMS%20ARCHITECT%20%7C%20PRINCIPAL%20ENGINEER&descSize=19&descAlignY=62&descColor=FDE047" width="100%"/>
+  <!-- Neon Pulse Animated Hero Banner -->
+  <a href="https://github.com/yousefkhaled2005">
+    <img src="./assets/neon-pulse-banner.svg" alt="Yousef Khaled — Senior AI Systems Architect" width="100%" />
+  </a>
 </div>
 
 <div align="center">
   <!-- Glowing Cyberpunk Animated Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=FF4500&center=true&vCenter=true&width=850&height=55&lines=⚡+20%2B+YEARS+C%2B%2B+%7C+NEURAL+CONTROL+%7C+FOUNDATION+LLMS;🔥+AGENTIC+ORCHESTRATION+%7C+LangGraph+%7C+vLLM+PagedAttention;🐉+ENTERPRISE+RAG+%7C+Qdrant+Hybrid+Search+%7C+DISTRIBUTED+MLOPS;🚀+ARCHITECTING+HIGH-THROUGHPUT+AI+AT+SCALE+(P95+%3C+450ms)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=55&lines=⚡+22+YEARS+C%2B%2B+%7C+DISTRIBUTED+SYSTEMS+%7C+FOUNDATION+LLMS;🔥+AGENTIC+SWARMS+%7C+LangGraph+%7C+vLLM+PagedAttention;🐉+MISSION-CRITICAL+RAG+%7C+Qdrant+Hybrid+Search+%7C+CUDA;🚀+50%2C000%2B+DAILY+QUERIES+%7C+P95+%3C+450ms+%7C+64+GPU+NODES" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
   <a href="https://huggingface.co/Yousef1258852"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Yousef1258852-FFD21E?style=for-the-badge&logoColor=black" alt="HuggingFace"></a>
-  <a href="mailto:youssef460249@beng.bu.edu.eg"><img src="https://img.shields.io/badge/Email-Encrypted%20Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:youssef460249@beng.bu.edu.eg"><img src="https://img.shields.io/badge/Encrypted%20Comms-youssef460249%40beng.bu.edu.eg-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Base-Cairo%2C%20Egypt%20%2F%20Remote-6366F1?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Architecture%20Consulting-10B981?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Clearance-Senior%20Architect-10B981?style=for-the-badge" alt="Clearance">
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=yousefkhaled2005.yousefkhaled2005"><img src="https://visitor-badge.laobi.icu/badge?page_id=yousefkhaled2005.yousefkhaled2005&left_color=0a0420&right_color=00d9ff" alt="Visitors" /></a>
 </p>
 
 ---
 
-### 🏆 GitHub Profile Trophies
+### 🌐 3D Orbital Tech Stack (Interactive Rotating Sphere)
+> Self-hosted SVG: Dual counter-rotating 3D groups with specular rim light and orbital tech tokens.
+<p align="center">
+  <img src="./assets/tech-sphere.svg" alt="Yousef Khaled — Orbital Toolbelt" width="100%" />
+</p>
+
+---
+
+### 🔬 Neural Pulse Lattice (Real-Time Mesh Telemetry)
+> Self-hosted SVG: Real-time particle-physics signal telemetry routing pulses across 15 distributed mesh paths.
+<p align="center">
+  <img src="./assets/neural-pulse-lattice.svg" alt="Yousef Khaled — Neural Pulse Lattice" width="100%" />
+</p>
+
+---
+
+### 🏆 Profile Trophies & Live Architecture Telemetry
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yousefkhaled2005&theme=onedark&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yousefkhaled2005&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" width="100%"/>
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yousefkhaled2005&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=yousefkhaled2005&theme=radical&hide_border=false" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefkhaled2005&layout=compact&theme=radical&langs_count=10&hide_border=false" width="100%" />
+</p>
 
 ---
 
@@ -33,7 +61,7 @@
 
 ---
 
-### 🕹️ Contribution Snake Game (Eat the Grid)
+### 🕹️ Contribution Snake Game & Grid Activity
 
 <div align="center">
   <picture>
@@ -52,6 +80,7 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,python,pytorch,tensorflow,fastapi,docker,kubernetes,gcp,aws,postgres,redis,react,ts,git,linux,bash&theme=dark&perline=9" />
   </a>
 </div>
+
 
 ---
 
@@ -155,7 +184,39 @@
 
 ---
 
+### 🖥️ Enterprise Mission Log & Bare-Metal Cluster Diagnostics
+
+<details>
+<summary><b>▶ CLICK TO EXPAND: 22-Year Infrastructure Architecture Philosophy & Hardware Specs</b></summary>
+<br>
+
+```yaml
+cluster_environment:
+  datacenter: "Cairo Tier-IV Certified Co-location & Hybrid AWS/GCP"
+  accelerator_fabric: "64x NVIDIA A100 80GB SXM4 + 16x H100 PCIe"
+  interconnect: "Quantum-2 InfiniBand 400Gb/s (Zero-Packet-Drop RoCEv2)"
+  storage_tier: "1.2 PB Distributed Ceph NVMe All-Flash (120 GB/s sequential)"
+  serving_runtime: "vLLM 0.6.x + PagedAttention + TensorRT-LLM INT4/INT8"
+
+telemetry_baselines:
+  daily_inbound_inferences: "50,000+ Requests / Day"
+  p95_time_to_first_token: "14.2 ms"
+  p99_streaming_latency: "< 32.8 ms"
+  max_concurrent_rag_workers: "256 Async Tokio / uvloop pipelines"
+
+engineering_doctrine:
+  - "Zero heap allocations in the critical packet/order switching loop."
+  - "Hardware cache line alignment (64 bytes) to eliminate false sharing."
+  - "Mathematical alignment validation: Cross-Entropy, DPO margins, and Kappa >= 0.78."
+  - "Empirical benchmarking over theoretical marketing claims."
+```
+
+</details>
+
+---
+
 <div align="center">
   <p><b>🐉 "Engineered with rigor. Deployed with precision. Built for scale." ⚡</b></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,10,1,0&height=110&section=footer" width="100%"/>
 </div>
+
