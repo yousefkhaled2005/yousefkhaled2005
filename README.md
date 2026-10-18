@@ -87,6 +87,7 @@
 | 📈 **[llm-inference-benchmark](https://github.com/yousefkhaled2005/llm-inference-benchmark)** | Empirical benchmark suite for LLM serving engines: vLLM vs llama.cpp vs NVIDIA Triton | Python, GPU Profiling, Matplotlib | [A100 & T4 Sweeps](https://github.com/yousefkhaled2005/llm-inference-benchmark) |
 | 🛡️ **[arabic-hallucination-detector](https://github.com/yousefkhaled2005/arabic-hallucination-detector)** | 3-tier diagnostic framework & benchmark for hallucination detection in Arabic LLMs | Python, Evaluation Suite, Citations | [1,200 Query Evaluation](https://github.com/yousefkhaled2005/arabic-hallucination-detector) |
 | 📊 **[rlhf-annotation-tools](https://github.com/yousefkhaled2005/rlhf-annotation-tools)** | Quality assurance toolkit for RLHF/DPO preference datasets (Kappa agreement & bias audit) | Python, Statistics, TRL Exporter | [Kappa >= 0.78 Baseline](https://github.com/yousefkhaled2005/rlhf-annotation-tools) |
+| 📐 **[ml-system-design](https://github.com/yousefkhaled2005/ml-system-design)** | Production Machine Learning & Generative AI architecture patterns, trade-offs, and case studies | Python, C++, MLOps, System Design | [300+ Engineering Notes](https://github.com/yousefkhaled2005/ml-system-design) |
 
 ---
 
