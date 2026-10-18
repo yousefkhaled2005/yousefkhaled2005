@@ -8,7 +8,7 @@
 <div align="center">
   <!-- Glowing Cyberpunk Animated Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&height=55&lines=⚡+22+YEARS+C%2B%2B+%7C+DISTRIBUTED+SYSTEMS+%7C+FOUNDATION+LLMS;🔥+AGENTIC+SWARMS+%7C+LangGraph+%7C+vLLM+PagedAttention;🐉+MISSION-CRITICAL+RAG+%7C+Qdrant+Hybrid+Search+%7C+CUDA;🚀+50%2C000%2B+DAILY+QUERIES+%7C+P95+%3C+450ms+%7C+64+GPU+NODES" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=21&pause=1200&color=00D9FF&center=true&vCenter=true&width=980&height=55&lines=%F0%9F%A4%96+FRONTIER+AI+TRAINER+%26+RLHF+SPECIALIST+(Scale+AI+%C2%B7+Alignerr+%C2%B7+Turing+%C2%B7+DataAnnotation);%E2%9A%A1+80K%2B+SFT%2FDPO+SAMPLES+%C2%B7+5K%2B+CoT+REASONING+CHAINS+%C2%B7+%CE%BA+%E2%89%A5+0.82;%F0%9F%9B%A1%EF%B8%8F+ADVERSARIAL+RED-TEAMING+%C2%B7+FACTUALITY+AUDITING+%C2%B7+ARABIC+LLM+LEAD;%F0%9F%9A%80+21%2B+YEARS+AI+SYSTEMS+ARCHITECT+%C2%B7+C%2B%2B+%C2%B7+CUDA+%C2%B7+LangGraph+%C2%B7+vLLM" alt="Typing SVG" />
   </a>
 </div>
 
@@ -31,6 +31,34 @@
   <a href="https://visitor-badge.laobi.icu/badge?page_id=yousefkhaled2005.yousefkhaled2005"><img src="https://visitor-badge.laobi.icu/badge?page_id=yousefkhaled2005.yousefkhaled2005&left_color=0a0420&right_color=00d9ff" alt="Visitors" /></a>
   <a href="https://github.com/yousefkhaled2005"><img src="https://komarev.com/ghpvc/?username=yousefkhaled2005&label=PROFILE+VIEWS&style=for-the-badge&color=00D9FF" alt="Profile Views" /></a>
 </p>
+
+---
+
+### 🤖 Frontier AI Model Training, RLHF & LLM Alignment Platforms (Industry Track Record)
+> **Senior RLHF Domain Evaluator · Prompt Engineer · Red Teamer · Foundation Model Alignment SME**  
+> Actively training, evaluating, and aligning frontier foundation models (GPT-4o, Claude 3.5 Sonnet, LLaMA 3/3.1, Gemini 1.5 Pro) across premier global AI research & data platforms:
+
+<div align="center">
+
+[![Scale AI](https://img.shields.io/badge/Scale%20AI-Outlier.ai-000000?style=for-the-badge&logo=openai&logoColor=white)](https://outlier.ai)
+[![Alignerr](https://img.shields.io/badge/Alignerr-Labelbox-4F46E5?style=for-the-badge&logo=statuspage&logoColor=white)](https://alignerr.com)
+[![Turing AI](https://img.shields.io/badge/Turing%20AI-LLM%20Training-2563EB?style=for-the-badge&logo=turing&logoColor=white)](https://turing.com)
+[![DataAnnotation](https://img.shields.io/badge/DataAnnotation.tech-Frontier%20RLHF-10B981?style=for-the-badge&logo=databricks&logoColor=white)](https://dataannotation.tech)
+[![Invisible Tech](https://img.shields.io/badge/Invisible%20Tech-Advanced%20Alignment-F59E0B?style=for-the-badge&logo=probot&logoColor=white)](https://invisible.co)
+[![Mindrift](https://img.shields.io/badge/Mindrift-AI%20Tutor-EC4899?style=for-the-badge&logo=affinity&logoColor=white)](https://mindrift.ai)
+[![OneForma](https://img.shields.io/badge/OneForma-Centific%20AI-00D9FF?style=for-the-badge&logo=google&logoColor=white)](https://oneforma.com)
+
+</div>
+
+<br/>
+
+| AI Training Platform Discipline | Core Responsibilities & Methodologies | Production Benchmarks & Quality Metrics |
+|:---|:---|:---|
+| 🎯 **RLHF & DPO Preference Modeling** | Crafting high-entropy chosen/rejected completion pairs, reward model calibration, length bias mitigation, and pairwise Elo ranking. | Curated **80,000+** SFT/DPO instruction samples; Inter-Annotator Agreement (Fleiss' Kappa $\kappa \ge 0.82$); **82%** blind preference rating. |
+| 🧠 **Complex Reasoning & CoT SFT** | Generating multi-step Chain-of-Thought (CoT) trajectories for advanced software architecture, C++/CUDA optimization, algorithm design, and mathematical proofs. | Authored **5,000+** verified technical prompts and rubric evaluation matrices adopted across international enterprise teams. |
+| 🛡️ **Model Factuality & Hallucination Auditing** | Applying rigorous 3-tier hallucination taxonomies across legal, medical, and regional Middle Eastern historical domains. | Benchmarked **6 frontier LLMs** (GPT-4o, LLaMA 3 70B, Claude 3.5 Sonnet, Gemini 1.5 Pro) with **91.5% citation verification precision**. |
+| ⚔️ **Adversarial Red-Teaming & Safety Alignment** | Multi-turn jailbreak stress-testing, prompt injection defense, cyber-security threat modeling, and refusal boundary calibration. | Discovered and patched **40+ zero-day prompt injection vectors** across conversational agents and tool-augmented LLM pipelines. |
+| 🌍 **Arabic Dialectal AI Leadership** | Subject Matter Expert (SME) in Modern Standard Arabic (MSA) and Egyptian, Gulf, Levantine, and Maghrebi dialectal linguistic nuances. | Designed foundational benchmark suites downloaded **800+ times** on Hugging Face Hub; **18.9% WER** acoustic dialect speech models. |
 
 ---
 
@@ -104,33 +132,6 @@
 | **Stream Computing & Deep Learning (2014–2018)** | [`2014`](https://github.com/yousefkhaled2005/distributed-stream-computing-grid/commits/main?until=2014-12-31) • [`2015`](https://github.com/yousefkhaled2005/distributed-stream-computing-grid/commits/main?until=2015-12-31) • [`2016`](https://github.com/yousefkhaled2005/distributed-stream-computing-grid/commits/main?until=2016-12-31) • [`2017`](https://github.com/yousefkhaled2005/distributed-stream-computing-grid/commits/main?until=2017-12-31) • [`2018`](https://github.com/yousefkhaled2005/distributed-stream-computing-grid/commits/main?until=2018-12-31) | `distributed-stream-computing-grid`<br>`national-id-arabic-ocr` |
 | **Vector DB, MLOps & NLP (2019–2023)** | [`2019`](https://github.com/yousefkhaled2005/distributed-vector-engine/commits/main?until=2019-12-31) • [`2020`](https://github.com/yousefkhaled2005/distributed-vector-engine/commits/main?until=2020-12-31) • [`2021`](https://github.com/yousefkhaled2005/distributed-vector-engine/commits/main?until=2021-12-31) • [`2022`](https://github.com/yousefkhaled2005/distributed-vector-engine/commits/main?until=2022-12-31) • [`2023`](https://github.com/yousefkhaled2005/distributed-vector-engine/commits/main?until=2023-12-31) | `distributed-vector-engine`<br>`feature-store-mlops-platform` |
 | **Foundation LLMs & Multi-Agent Swarms (2024–2026)** | [`2024`](https://github.com/yousefkhaled2005/distributed-vector-engine/commits/main?until=2024-12-31) • [`2025`](https://github.com/yousefkhaled2005/ml-system-design/commits/main?until=2025-12-31) • [`2026`](https://github.com/yousefkhaled2005/ml-system-design/commits/main) | `enterprise-ai-platform`<br>`production-rag-arabic`<br>`multi-agent-research` |
-
----
-
-### 🤖 Frontier AI Model Training, RLHF & LLM Alignment Platforms (Industry Track Record)
-> Senior RLHF Domain Evaluator, Prompt Engineer, and Foundation Model Alignment Specialist collaborating with leading global AI training and data annotation organizations:
-
-<div align="center">
-
-[![Scale AI](https://img.shields.io/badge/Scale%20AI-Outlier.ai-000000?style=for-the-badge&logo=openai&logoColor=white)](https://outlier.ai)
-[![Alignerr](https://img.shields.io/badge/Alignerr-Labelbox-4F46E5?style=for-the-badge&logo=statuspage&logoColor=white)](https://alignerr.com)
-[![Turing AI](https://img.shields.io/badge/Turing%20AI-LLM%20Training-2563EB?style=for-the-badge&logo=turing&logoColor=white)](https://turing.com)
-[![DataAnnotation](https://img.shields.io/badge/DataAnnotation.tech-Frontier%20RLHF-10B981?style=for-the-badge&logo=databricks&logoColor=white)](https://dataannotation.tech)
-[![Invisible Tech](https://img.shields.io/badge/Invisible%20Tech-Advanced%20Alignment-F59E0B?style=for-the-badge&logo=probot&logoColor=white)](https://invisible.co)
-[![Mindrift](https://img.shields.io/badge/Mindrift-AI%20Tutor-EC4899?style=for-the-badge&logo=affinity&logoColor=white)](https://mindrift.ai)
-[![OneForma](https://img.shields.io/badge/OneForma-Centific%20AI-00D9FF?style=for-the-badge&logo=google&logoColor=white)](https://oneforma.com)
-
-</div>
-
-<br/>
-
-| AI Training Platform Discipline | Core Responsibilities & Methodologies | Production Benchmarks & Quality Metrics |
-|:---|:---|:---|
-| 🎯 **RLHF & DPO Preference Modeling** | Crafting high-entropy chosen/rejected completion pairs, reward model calibration, length bias mitigation, and pairwise Elo ranking. | Curated 80,000+ SFT/DPO instruction samples; Inter-Annotator Agreement (Fleiss' Kappa >= 0.82); 82% blind preference rating. |
-| 🧠 **Complex Reasoning & CoT SFT** | Generating multi-step Chain-of-Thought (CoT) trajectories for advanced software architecture, C++/CUDA optimization, algorithm design, and mathematical proofs. | Authored 5,000+ verified technical prompts and rubric evaluation matrices adopted across international enterprise teams. |
-| 🛡️ **Model Factuality & Hallucination Auditing** | Applying rigorous 3-tier hallucination taxonomies across legal, medical, and regional Middle Eastern historical domains. | Benchmarked 6 frontier LLMs (GPT-4o, LLaMA 3 70B, Claude 3.5 Sonnet, Gemini 1.5 Pro) with 91.5% citation verification precision. |
-| ⚔️ **Adversarial Red-Teaming & Safety Alignment** | Multi-turn jailbreak stress-testing, prompt injection defense, cyber-security threat modeling, and refusal boundary calibration. | Discovered and patched 40+ zero-day prompt injection vectors across conversational agents and tool-augmented LLM pipelines. |
-| 🌍 **Arabic Dialectal AI Leadership** | Subject Matter Expert (SME) in Modern Standard Arabic (MSA) and Egyptian, Gulf, Levantine, and Maghrebi dialectal linguistic nuances. | Designed foundational benchmark suites downloaded 800+ times on Hugging Face Hub; 18.9% WER acoustic dialect speech models. |
 
 ---
 
