@@ -113,29 +113,29 @@
   <g transform="translate(120,118)" font-family="'Inter', 'Manrope', system-ui, sans-serif">
     <text font-size="13" font-family="'JetBrains Mono', monospace" fill="#fcd34d" letter-spacing="4">— PRINCIPAL ARCHITECT · 22 YEARS</text>
     <text y="58" font-size="52" font-weight="800" fill="#fef3c7" letter-spacing="-1.5">Yousef Khaled</text>
-    <text y="90" font-size="17" font-weight="500" fill="#e8d5ff" font-style="italic">Senior AI Systems Architect · Distributed Engines &amp; LLMs</text>
+    <text y="90" font-size="17" font-weight="500" fill="#e8d5ff" font-style="italic">Senior AI Systems Architect · Frontier LLM Trainer &amp; Evaluator</text>
 
     <line x1="0" y1="116" x2="60" y2="116" stroke="#fcd34d" stroke-width="2"/>
 
-    <text y="148" font-size="14" fill="#e8d5ff">Architecting carrier-grade distributed AI &amp; vector search engines.</text>
-    <text y="172" font-size="14" fill="#e8d5ff">Serving 50,000+ daily queries at P95 &lt; 450ms on 64 GPU nodes.</text>
-    <text y="196" font-size="14" fill="#cbd5e1" opacity="0.85">Consulting: Agentic LangGraph swarms &amp; vLLM inference at scale.</text>
+    <text y="148" font-size="14" font-weight="600" fill="#7df9ff">🎯 Trained &amp; Aligned: Claude Code · ChatGPT · GLM-4</text>
+    <text y="172" font-size="14" fill="#e8d5ff">Scale AI · Alignerr · DataAnnotation · Turing · RLHF / DPO Specialist</text>
+    <text y="196" font-size="14" fill="#cbd5e1" opacity="0.85">80K+ SFT Samples · 5K+ Reasoning Chains · 21+ Yrs Systems Architect</text>
   </g>
 
   <!-- Right column — card sub-panel inside glass -->
   <g transform="translate(770,108)">
     <rect width="320" height="200" rx="20" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.18" stroke-width="0.6"/>
-    <text x="20" y="32" font-family="'JetBrains Mono', monospace" font-size="10" fill="#fcd34d" letter-spacing="3">— KEY CODEBASES</text>
+    <text x="20" y="32" font-family="'JetBrains Mono', monospace" font-size="10" fill="#fcd34d" letter-spacing="3">— MODELS TRAINED</text>
     <g font-family="'JetBrains Mono', monospace" font-size="12" fill="#fef3c7">
-      <text x="20" y="60">01 · ai-inference-engine</text>
-      <text x="20" y="84">02 · distributed-vector-engine</text>
-      <text x="20" y="108">03 · multi-agent-research</text>
+      <text x="20" y="60">01 · Claude Code &amp; 3.5 Sonnet</text>
+      <text x="20" y="84">02 · ChatGPT &amp; GPT-4o</text>
+      <text x="20" y="108">03 · GLM-4 &amp; ChatGLM</text>
     </g>
     <line x1="20" y1="124" x2="300" y2="124" stroke="#ffffff" stroke-opacity="0.15"/>
     <text x="20" y="148" font-family="'JetBrains Mono', monospace" font-size="10" fill="#fcd34d" letter-spacing="3">— VERIFIED CHANNELS</text>
     <g font-family="'JetBrains Mono', monospace" font-size="11" fill="#e8d5ff">
-      <text x="20" y="172">hf.co/Yousef1258852</text>
-      <text x="20" y="190">youssef460249@beng.bu.edu.eg</text>
+      <text x="20" y="172">hf.co/yousef-khaled</text>
+      <text x="20" y="190">kjjyousef4@gmail.com</text>
     </g>
   </g>
 
