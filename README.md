@@ -13,10 +13,12 @@
 </div>
 
 <p align="center">
-  <a href="https://huggingface.co/Yousef1258852"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Yousef1258852-FFD21E?style=for-the-badge&logoColor=black" alt="HuggingFace"></a>
-  <a href="mailto:youssef460249@beng.bu.edu.eg"><img src="https://img.shields.io/badge/Encrypted%20Comms-youssef460249%40beng.bu.edu.eg-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/yousef-khaled-59954933a"><img src="https://img.shields.io/badge/LinkedIn-Yousef%20Khaled%20Gouda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://huggingface.co/yousef-khaled"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-yousef--khaled-FFD21E?style=for-the-badge&logoColor=black" alt="HuggingFace"></a>
+  <a href="mailto:kjjyousef4@gmail.com"><img src="https://img.shields.io/badge/Direct%20Comms-kjjyousef4%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="tel:+201007097545"><img src="https://img.shields.io/badge/Direct%20Call-%2B20%20100%20709%207545-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"></a>
   <img src="https://img.shields.io/badge/Base-Cairo%2C%20Egypt%20%2F%20Remote-6366F1?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
-  <img src="https://img.shields.io/badge/Clearance-Senior%20Architect%20(22%20Yrs)-10B981?style=for-the-badge" alt="Clearance">
+  <img src="https://img.shields.io/badge/Clearance-Principal%20Architect%20(21%2B%20Yrs)-10B981?style=for-the-badge" alt="Clearance">
   <a href="https://visitor-badge.laobi.icu/badge?page_id=yousefkhaled2005.yousefkhaled2005"><img src="https://visitor-badge.laobi.icu/badge?page_id=yousefkhaled2005.yousefkhaled2005&left_color=0a0420&right_color=00d9ff" alt="Visitors" /></a>
   <a href="https://github.com/yousefkhaled2005"><img src="https://komarev.com/ghpvc/?username=yousefkhaled2005&label=PROFILE+VIEWS&style=for-the-badge&color=00D9FF" alt="Profile Views" /></a>
 </p>
