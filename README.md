@@ -74,12 +74,16 @@
 
 ---
 
-### 🌌 Polyglot Enterprise Systems & Distributed Engines (Multi-Language Architectures)
+### 🌌 Polyglot Enterprise Systems & Distributed Engines (2004 – 2026 Architectures)
 
-| Repository | Polyglot Stack | Architecture & Scope | Verified Performance |
+| Repository | Era & Multi-Language Stack | Architecture & Scope | Verified Performance |
 |:---|:---|:---|:---:|
 | ⚡ **[enterprise-ai-inference-engine](https://github.com/yousefkhaled2005/enterprise-ai-inference-engine)** | **Go, C++, Python, CUDA, C, Shell** (4,600+ files) | Universal AI inference gateway & multi-model server (LLMs, Whisper ASR, Stable Diffusion) with drop-in OpenAI API | [Sub-15ms TTFT, P99 < 35ms](https://github.com/yousefkhaled2005/enterprise-ai-inference-engine) |
 | 🦀 **[distributed-vector-engine](https://github.com/yousefkhaled2005/distributed-vector-engine)** | **Rust, Python, TypeScript, Go** (2,100+ files) | Distributed AI vector database with AVX-512 SIMD HNSW indexing, multi-tenant WAL, and gRPC service mesh | [42k queries/sec @ P99 < 1.8ms](https://github.com/yousefkhaled2005/distributed-vector-engine) |
+| 🌊 **[distributed-stream-computing-grid](https://github.com/yousefkhaled2005/distributed-stream-computing-grid)** | **Scala 2.12, Go 1.10, Rust, Python** (2014–2018) | Distributed stream computing grid with Raft cluster consensus, Chandy-Lamport exactly-once snapshots, and zero-copy Rust shuffle | [4.2M events/sec @ P95 < 4.2ms](https://github.com/yousefkhaled2005/distributed-stream-computing-grid) |
+| 📈 **[distributed-lmax-matching-engine](https://github.com/yousefkhaled2005/distributed-lmax-matching-engine)** | **Java 17, C++14, Go, Python** (2008–2014) | Ultra-low latency Level 3 Limit Order Book with cache-line padded LMAX Disruptor, NASDAQ ITCH 5.0 multicast, and Go risk filter | [1.85M orders/sec @ 1.12 µs P99](https://github.com/yousefkhaled2005/distributed-lmax-matching-engine) |
+| 📞 **[telecom-switching-core-c](https://github.com/yousefkhaled2005/telecom-switching-core-c)** | **C (C99), C++, x86 Assembly, Python** (2004–2008) | Carrier-grade PSTN/GSM packet switching exchange with ITU-T Q.763 ISUP state machines, slab memory pools, and binary CDR CRC32 audit | [52,400 CAPS @ < 1.8 µs Latency](https://github.com/yousefkhaled2005/telecom-switching-core-c) |
+
 
 ---
 
@@ -107,13 +111,17 @@
 | 🧠 **[medical-imaging-segmentation-cnn](https://github.com/yousefkhaled2005/medical-imaging-segmentation-cnn)** | Clinical 2D/3D biomedical image segmentation with U-Net, Soft Dice Loss, and PACS ONNX export | PyTorch, U-Net, Soft Dice, ONNX | [0.892 Mean Dice (500 Patients)](https://github.com/yousefkhaled2005/medical-imaging-segmentation-cnn) |
 | 🆔 **[national-id-arabic-ocr](https://github.com/yousefkhaled2005/national-id-arabic-ocr)** | Deep learning CRNN-CTC OCR pipeline for Egyptian National ID card digitization | CRNN, CTC Loss, PyTorch, OpenCV | [96.2% Accuracy on 2.1M IDs](https://github.com/yousefkhaled2005/national-id-arabic-ocr) |
 
-#### ⚙️ 3. Systems Software, Control & Distributed Engines (2004 – 2015)
+#### ⚙️ 3. Systems Software, Control & Distributed Engines (2004 – 2018)
 | Repository | Focus & Architecture | Key Stack | Evidence & Benchmarks |
 |:---|:---|:---|:---:|
+| 🌊 **[distributed-stream-computing-grid](https://github.com/yousefkhaled2005/distributed-stream-computing-grid)** | Distributed stream DAG framework with Raft cluster consensus, Chandy-Lamport snapshots, and zero-copy Rust shuffle | Scala, Go, Rust, Python | [4.2M events/sec, Exactly-Once](https://github.com/yousefkhaled2005/distributed-stream-computing-grid) |
+| 📈 **[distributed-lmax-matching-engine](https://github.com/yousefkhaled2005/distributed-lmax-matching-engine)** | Level 3 Limit Order Book with cache-line padded LMAX Disruptor, NASDAQ ITCH 5.0 multicast, and Go risk filter | Java 17, C++14, Go, Python | [1.85M orders/sec @ 1.12 µs P99](https://github.com/yousefkhaled2005/distributed-lmax-matching-engine) |
+| 📞 **[telecom-switching-core-c](https://github.com/yousefkhaled2005/telecom-switching-core-c)** | Carrier-grade PSTN/GSM packet switching exchange with ITU-T Q.763 ISUP state machines, slab memory pools, and binary CDR | C (C99), C++, x86 Asm, Python | [52,400 CAPS, < 1.8 µs Latency](https://github.com/yousefkhaled2005/telecom-switching-core-c) |
 | 📞 **[contact-center-fraud-detection](https://github.com/yousefkhaled2005/contact-center-fraud-detection)** | Telecom contact center fraud detection and customer churn prediction on call detail records | Gradient Boosted Trees, Isolation Forest | [34% Fraud Drop, 4.2M EGP Recovered](https://github.com/yousefkhaled2005/contact-center-fraud-detection) |
 | 🕸️ **[distributed-crawler-search-index](https://github.com/yousefkhaled2005/distributed-crawler-search-index)** | Distributed web crawler and compressed inverted index search engine with Okapi BM25 & PageRank | C++, Python, VByte Codec, PageRank, BM25 | [78.4% Postings Compression](https://github.com/yousefkhaled2005/distributed-crawler-search-index) |
 | 📡 **[embedded-rtos-telemetry-engine](https://github.com/yousefkhaled2005/embedded-rtos-telemetry-engine)** | Industrial SCADA & RTU lock-free embedded telemetry engine in C99 with Modbus RTU & CAN 2.0B | C99, POSIX, Modbus RTU, CAN 2.0B | [284k pkts/sec, Zero Heap Alloc](https://github.com/yousefkhaled2005/embedded-rtos-telemetry-engine) |
 | ⚙️ **[neural-pid-controller-cpp](https://github.com/yousefkhaled2005/neural-pid-controller-cpp)** | High-performance C++20 neural adaptive PID auto-tuner with SIMD zero-allocation fast math | C++20, Modern CMake, Control Theory | [Zero Steady-State Error](https://github.com/yousefkhaled2005/neural-pid-controller-cpp) |
+
 
 ---
 
