@@ -1,24 +1,29 @@
-name: Generate Snake Contribution Grid
+name: Generate Arcade Contributions (Pac-Man & Snake)
 
 on:
   schedule:
-    # Run every 12 hours
-    - cron: "0 */12 * * *"
+    # Run twice daily at 00:00 and 12:00 UTC
+    - cron: "0 0,12 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
 
-permissions:
-  contents: write
-
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      - name: Generate Snake SVG
+      - name: Generate Pac-Man Contribution Graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: yousefkhaled2005
+
+      - name: Generate Snake Contribution Grid
         uses: Platane/snk@v3
         with:
           github_user_name: yousefkhaled2005
@@ -26,11 +31,10 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#FF4500&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
-      - name: Deploy to Output Branch
+      - name: Deploy All Arcade SVGs to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
-          keep_files: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
