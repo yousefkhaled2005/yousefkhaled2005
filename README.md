@@ -116,6 +116,8 @@
 | 🌍 **Model** | `Yousef1258852/arabic-dialect-classifier` | 5-class Arabic dialect identification (EGY, GLF, LEV, MAG, MSA) | [View Model Card](https://huggingface.co/Yousef1258852/arabic-dialect-classifier) |
 | 📊 **Dataset** | `Yousef1258852/arabic-dialect-eval-1k` | 1,000 balanced benchmark sentences for multi-dialectal evaluation | [Explore Dataset](https://huggingface.co/datasets/Yousef1258852/arabic-dialect-eval-1k) |
 | 🎯 **Dataset** | `Yousef1258852/arabic-rlhf-preferences` | 1,000 paired preference dataset for DPO/RLHF alignment (Legal, Health, AI) | [Explore Dataset](https://huggingface.co/datasets/Yousef1258852/arabic-rlhf-preferences) |
+| ⚖️ **Dataset** | `Yousef1258852/egyptian-legal-corpus-250` | 250 curated Egyptian statutes across labor, commercial, and civil codes | [Explore Dataset](https://huggingface.co/datasets/Yousef1258852/egyptian-legal-corpus-250) |
+| 🎙️ **Dataset** | `Yousef1258852/arabic-asr-egyptian-eval` | 1,500 Egyptian dialect acoustic evaluation samples across customer service | [Explore Dataset](https://huggingface.co/datasets/Yousef1258852/arabic-asr-egyptian-eval) |
 
 ---
 
