@@ -96,6 +96,17 @@ Senior AI Systems Architect with 20+ years of applied software engineering and m
 
 ---
 
+### 🤗 Published Hugging Face Models & Datasets
+
+| Type | Resource | Description & Metrics | Direct Link |
+|:---:|:---|:---|:---:|
+| 🤖 **Model** | `Yousef1258852/arabert-sentiment-v2` | Fine-tuned AraBERT Arabic sentiment classifier (Macro F1 = 0.914) | [View Model Card](https://huggingface.co/Yousef1258852/arabert-sentiment-v2) |
+| 🌍 **Model** | `Yousef1258852/arabic-dialect-classifier` | 5-class Arabic dialect identification (EGY, GLF, LEV, MAG, MSA) | [View Model Card](https://huggingface.co/Yousef1258852/arabic-dialect-classifier) |
+| 📊 **Dataset** | `Yousef1258852/arabic-dialect-eval-1k` | 1,000 balanced benchmark sentences for multi-dialectal evaluation | [Explore Dataset](https://huggingface.co/datasets/Yousef1258852/arabic-dialect-eval-1k) |
+| 🎯 **Dataset** | `Yousef1258852/arabic-rlhf-preferences` | 1,000 paired preference dataset for DPO/RLHF alignment (Legal, Health, AI) | [Explore Dataset](https://huggingface.co/datasets/Yousef1258852/arabic-rlhf-preferences) |
+
+---
+
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
