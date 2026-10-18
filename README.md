@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/Base-Cairo%2C%20Egypt%20%2F%20Remote-6366F1?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
   <img src="https://img.shields.io/badge/Clearance-Senior%20Architect%20(22%20Yrs)-10B981?style=for-the-badge" alt="Clearance">
   <a href="https://visitor-badge.laobi.icu/badge?page_id=yousefkhaled2005.yousefkhaled2005"><img src="https://visitor-badge.laobi.icu/badge?page_id=yousefkhaled2005.yousefkhaled2005&left_color=0a0420&right_color=00d9ff" alt="Visitors" /></a>
+  <a href="https://github.com/yousefkhaled2005"><img src="https://komarev.com/ghpvc/?username=yousefkhaled2005&label=PROFILE+VIEWS&style=for-the-badge&color=00D9FF" alt="Profile Views" /></a>
 </p>
 
 ---
