@@ -61,6 +61,18 @@
 
 ---
 
+### 🏙️ 3D Isometric Contribution Skyline (Ray-Traced Graph)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg">
+    <img alt="3D Contribution Skyline Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+  </picture>
+</div>
+
+---
+
 ### 🕹️ Contribution Snake Game & Grid Activity
 
 <div align="center">
