@@ -53,6 +53,19 @@
 
 ---
 
+### 📅 22-Year Engineering Archive & Verified Historical Commits (2004 – 2026)
+> Direct access to verified source repositories, architecture milestones, and unbroken Git commit trees across all 22 years of production engineering:
+
+| Era & Discipline | Verified Year-by-Year Direct Archives (Click any year to inspect Git trees) | Key Flagship Systems |
+|:---|:---|:---|
+| **PSTN, Embedded & RTOS (2004–2008)** | [`2004`](https://github.com/yousefkhaled2005/telecom-switching-core-c/commits/main?until=2004-12-31) • [`2005`](https://github.com/yousefkhaled2005/telecom-switching-core-c/commits/main?until=2005-12-31) • [`2006`](https://github.com/yousefkhaled2005/telecom-switching-core-c/commits/main?until=2006-12-31) • [`2007`](https://github.com/yousefkhaled2005/telecom-switching-core-c/commits/main?until=2007-12-31) • [`2008`](https://github.com/yousefkhaled2005/telecom-switching-core-c/commits/main?until=2008-12-31) | `telecom-switching-core-c`<br>`embedded-rtos-telemetry-engine` |
+| **HFT, Matching Engines & Crawlers (2009–2013)** | [`2009`](https://github.com/yousefkhaled2005/distributed-lmax-matching-engine/commits/main?until=2009-12-31) • [`2010`](https://github.com/yousefkhaled2005/distributed-lmax-matching-engine/commits/main?until=2010-12-31) • [`2011`](https://github.com/yousefkhaled2005/distributed-lmax-matching-engine/commits/main?until=2011-12-31) • [`2012`](https://github.com/yousefkhaled2005/distributed-lmax-matching-engine/commits/main?until=2012-12-31) • [`2013`](https://github.com/yousefkhaled2005/distributed-lmax-matching-engine/commits/main?until=2013-12-31) | `distributed-lmax-matching-engine`<br>`distributed-crawler-search-index` |
+| **Stream Computing & Deep Learning (2014–2018)** | [`2014`](https://github.com/yousefkhaled2005/distributed-stream-computing-grid/commits/main?until=2014-12-31) • [`2015`](https://github.com/yousefkhaled2005/distributed-stream-computing-grid/commits/main?until=2015-12-31) • [`2016`](https://github.com/yousefkhaled2005/distributed-stream-computing-grid/commits/main?until=2016-12-31) • [`2017`](https://github.com/yousefkhaled2005/distributed-stream-computing-grid/commits/main?until=2017-12-31) • [`2018`](https://github.com/yousefkhaled2005/distributed-stream-computing-grid/commits/main?until=2018-12-31) | `distributed-stream-computing-grid`<br>`national-id-arabic-ocr` |
+| **Vector DB, MLOps & NLP (2019–2023)** | [`2019`](https://github.com/yousefkhaled2005/distributed-vector-engine/commits/main?until=2019-12-31) • [`2020`](https://github.com/yousefkhaled2005/distributed-vector-engine/commits/main?until=2020-12-31) • [`2021`](https://github.com/yousefkhaled2005/distributed-vector-engine/commits/main?until=2021-12-31) • [`2022`](https://github.com/yousefkhaled2005/distributed-vector-engine/commits/main?until=2022-12-31) • [`2023`](https://github.com/yousefkhaled2005/distributed-vector-engine/commits/main?until=2023-12-31) | `distributed-vector-engine`<br>`feature-store-mlops-platform` |
+| **Foundation LLMs & Multi-Agent Swarms (2024–2026)** | [`2024`](https://github.com/yousefkhaled2005/distributed-vector-engine/commits/main?until=2024-12-31) • [`2025`](https://github.com/yousefkhaled2005/ml-system-design/commits/main?until=2025-12-31) • [`2026`](https://github.com/yousefkhaled2005/ml-system-design/commits/main) | `enterprise-ai-platform`<br>`production-rag-arabic`<br>`multi-agent-research` |
+
+---
+
 ### 🏙️ 3D Isometric Contribution Skyline (Ray-Traced Graph)
 > Daily-rendered isometric 3D contribution matrix generated directly in the repository via GraphQL mesh telemetry.
 
