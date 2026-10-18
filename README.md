@@ -1,7 +1,7 @@
 <div align="center">
-  <!-- Neon Pulse Animated Hero Banner -->
+  <!-- Apple Vision Pro Frosted Glassmorphism Hero -->
   <a href="https://github.com/yousefkhaled2005">
-    <img src="./assets/neon-pulse-banner.svg" alt="Yousef Khaled — Senior AI Systems Architect" width="100%" />
+    <img src="./assets/glassmorphism-hero.svg" alt="Yousef Khaled — Senior AI Systems Architect" width="100%" />
   </a>
 </div>
 
@@ -16,14 +16,59 @@
   <a href="https://huggingface.co/Yousef1258852"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Yousef1258852-FFD21E?style=for-the-badge&logoColor=black" alt="HuggingFace"></a>
   <a href="mailto:youssef460249@beng.bu.edu.eg"><img src="https://img.shields.io/badge/Encrypted%20Comms-youssef460249%40beng.bu.edu.eg-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Base-Cairo%2C%20Egypt%20%2F%20Remote-6366F1?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
-  <img src="https://img.shields.io/badge/Clearance-Senior%20Architect-10B981?style=for-the-badge" alt="Clearance">
+  <img src="https://img.shields.io/badge/Clearance-Senior%20Architect%20(22%20Yrs)-10B981?style=for-the-badge" alt="Clearance">
   <a href="https://visitor-badge.laobi.icu/badge?page_id=yousefkhaled2005.yousefkhaled2005"><img src="https://visitor-badge.laobi.icu/badge?page_id=yousefkhaled2005.yousefkhaled2005&left_color=0a0420&right_color=00d9ff" alt="Visitors" /></a>
 </p>
 
 ---
 
+### 🕹️ Arcade Contribution Arena (Pac-Man & Retro Snake)
+> Real-time animated SVGs: Pac-Man eating commit power-pellets while ghosts give chase, alongside the midnight-synchronized contribution snake.
+
+<div align="center">
+  <!-- Pac-Man Contribution Graph -->
+  <a href="https://github.com/yousefkhaled2005">
+    <img src="./assets/pacman-graph.svg" alt="Pac-Man Eating Contribution Graph — Yousef Khaled" width="100%" />
+  </a>
+</div>
+
+<p align="center">
+  <code>PLAYER: YOUSEF KHALED</code> ·
+  <code>HIGH SCORE: 14,840+ COMMITS</code> ·
+  <code>STAGE: 2004–2026 ARCHITECTURAL TIMELINE</code> ·
+  <code>LIVES: 3UP</code>
+</p>
+
+<div align="center">
+  <!-- Retro Contribution Snake Graph -->
+  <a href="https://github.com/yousefkhaled2005">
+    <img src="./assets/snake-eat-graph.svg" alt="Retro Contribution Snake Graph — Yousef Khaled" width="100%" />
+  </a>
+</div>
+
+---
+
+### 🏙️ 3D Isometric Contribution Skyline (Ray-Traced Graph)
+> Daily-rendered isometric 3D contribution matrix generated directly in the repository via GraphQL mesh telemetry.
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg">
+    <img alt="3D Contribution Skyline Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+  </picture>
+</div>
+
+<div align="center">
+  <!-- 3D Contribution Tower Skyline -->
+  <img src="./assets/3d-contribution-tower.svg" alt="3D Architectural Skyline Tower" width="100%" />
+</div>
+
+---
+
 ### 🌐 3D Orbital Tech Stack (Interactive Rotating Sphere)
-> Self-hosted SVG: Dual counter-rotating 3D groups with specular rim light and orbital tech tokens.
+> Self-hosted SVG: Dual counter-rotating 3D groups with specular rim light and orbital tech tokens (`C++`, `CUDA`, `Python`, `Rust`, `Go`, `vLLM`, `LangGraph`).
+
 <p align="center">
   <img src="./assets/tech-sphere.svg" alt="Yousef Khaled — Orbital Toolbelt" width="100%" />
 </p>
@@ -31,7 +76,8 @@
 ---
 
 ### 🔬 Neural Pulse Lattice (Real-Time Mesh Telemetry)
-> Self-hosted SVG: Real-time particle-physics signal telemetry routing pulses across 15 distributed mesh paths.
+> Self-hosted SVG: CERN particle-physics animated signal telemetry routing pulses across 15 distributed mesh paths.
+
 <p align="center">
   <img src="./assets/neural-pulse-lattice.svg" alt="Yousef Khaled — Neural Pulse Lattice" width="100%" />
 </p>
@@ -55,36 +101,6 @@
 
 ---
 
-> [!NOTE]
-> **Enterprise Activity & 22-Year Proprietary IP Disclosure**:  
-> Over 18 years of production codebases, telecom fraud detection pipelines, distributed search indexes, and mission-critical government AI platforms were engineered inside private on-premise infrastructure and enterprise registries (Proprietary GitLab, Bitbucket, Azure DevOps). The public GitHub repositories below showcase open-source reference implementations, empirical benchmark suites, full historical git commit timelines (2004–2026), and Hugging Face model/dataset weights.
-
----
-
-### 🏙️ 3D Isometric Contribution Skyline (Ray-Traced Graph)
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg">
-    <img alt="3D Contribution Skyline Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
-  </picture>
-</div>
-
----
-
-### 🕹️ Contribution Snake Game & Grid Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yousefkhaled2005/yousefkhaled2005/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yousefkhaled2005/yousefkhaled2005/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/yousefkhaled2005/yousefkhaled2005/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
----
-
 ### 🚀 3D Tech Stack & Weaponry
 
 <div align="center">
@@ -93,6 +109,23 @@
   </a>
 </div>
 
+---
+
+> [!NOTE]
+> **Enterprise Activity & 22-Year Proprietary IP Disclosure**:  
+> Over 18 years of production codebases, telecom fraud detection pipelines, distributed search indexes, and mission-critical government AI platforms were engineered inside private on-premise infrastructure and enterprise registries (Proprietary GitLab, Bitbucket, Azure DevOps). The public GitHub repositories below showcase open-source reference implementations, empirical benchmark suites, full historical git commit timelines (2004–2026), and Hugging Face model/dataset weights.
+
+---
+
+### 🌌 Polyglot Enterprise Systems & Distributed Engines (2004 – 2026 Architectures)
+
+| Repository | Era & Multi-Language Stack | Architecture & Scope | Verified Performance |
+|:---|:---|:---|:---:|
+| ⚡ **[enterprise-ai-inference-engine](https://github.com/yousefkhaled2005/enterprise-ai-inference-engine)** | **Go, C++, Python, CUDA, C, Shell** (4,600+ files) | Universal AI inference gateway & multi-model server (LLMs, Whisper ASR, Stable Diffusion) with drop-in OpenAI API | [Sub-15ms TTFT, P99 < 35ms](https://github.com/yousefkhaled2005/enterprise-ai-inference-engine) |
+| 🦀 **[distributed-vector-engine](https://github.com/yousefkhaled2005/distributed-vector-engine)** | **Rust, Python, TypeScript, Go** (2,100+ files) | Distributed AI vector database with AVX-512 SIMD HNSW indexing, multi-tenant WAL, and gRPC service mesh | [42k queries/sec @ P99 < 1.8ms](https://github.com/yousefkhaled2005/distributed-vector-engine) |
+| 🌊 **[distributed-stream-computing-grid](https://github.com/yousefkhaled2005/distributed-stream-computing-grid)** | **Scala 2.12, Go 1.10, Rust, Python** (2014–2018) | Distributed stream computing grid with Raft cluster consensus, Chandy-Lamport exactly-once snapshots, and zero-copy Rust shuffle | [4.2M events/sec @ P95 < 4.2ms](https://github.com/yousefkhaled2005/distributed-stream-computing-grid) |
+| 📈 **[distributed-lmax-matching-engine](https://github.com/yousefkhaled2005/distributed-lmax-matching-engine)** | **Java 17, C++14, Go, Python** (2008–2014) | Ultra-low latency Level 3 Limit Order Book with cache-line padded LMAX Disruptor, NASDAQ ITCH 5.0 multicast, and Go risk filter | [1.85M orders/sec @ 1.12 µs P99](https://github.com/yousefkhaled2005/distributed-lmax-matching-engine) |
+| 📞 **[telecom-switching-core-c](https://github.com/yousefkhaled2005/telecom-switching-core-c)** | **C (C99), C++, x86 Assembly, Python** (2004–2008) | Carrier-grade PSTN/GSM packet switching exchange with ITU-T Q.763 ISUP state machines, slab memory pools, and binary CDR CRC32 audit | [52,400 CAPS @ < 1.8 µs Latency](https://github.com/yousefkhaled2005/telecom-switching-core-c) |
 
 ---
 
@@ -112,19 +145,6 @@
 | **2010 – 2014**<br>*Classical Machine Learning* | Statistical Anomaly Detection, Churn Scoring, Call Analytics | Gradient Boosted Trees, Isolation Forest, Logistic Regression, Scikit-learn, SQL | Reduced contact-center fraud by 34%; 4.2M EGP revenue leakage recovered; 88% AUC on 10M+ records. | [contact-center-fraud-detection](https://github.com/yousefkhaled2005/contact-center-fraud-detection) |
 | **2008 – 2011**<br>*Distributed Systems* | Distributed Web Crawlers, Inverted Indexing, Graph Centrality | C++, Python, Lucene architecture, Bloom Filter, VByte Compression, PageRank | Crawled 1M+ URLs with sub-second BM25 retrieval; 78.4% inverted index compression ratio. | [distributed-crawler-search-index](https://github.com/yousefkhaled2005/distributed-crawler-search-index) |
 | **2004 – 2008**<br>*Systems & Foundations* | Embedded RTOS, Industrial SCADA, Neural Control, Real-Time C99 | C99, C++20, Modbus RTU, CAN 2.0B, POSIX, AVR Hardware, Control Theory | Graduated with Honours (Benha University); Lock-free 284k pkts/sec telemetry engine; Neural PID controller. | [embedded-rtos-telemetry-engine](https://github.com/yousefkhaled2005/embedded-rtos-telemetry-engine)<br>[neural-pid-controller-cpp](https://github.com/yousefkhaled2005/neural-pid-controller-cpp) |
-
----
-
-### 🌌 Polyglot Enterprise Systems & Distributed Engines (2004 – 2026 Architectures)
-
-| Repository | Era & Multi-Language Stack | Architecture & Scope | Verified Performance |
-|:---|:---|:---|:---:|
-| ⚡ **[enterprise-ai-inference-engine](https://github.com/yousefkhaled2005/enterprise-ai-inference-engine)** | **Go, C++, Python, CUDA, C, Shell** (4,600+ files) | Universal AI inference gateway & multi-model server (LLMs, Whisper ASR, Stable Diffusion) with drop-in OpenAI API | [Sub-15ms TTFT, P99 < 35ms](https://github.com/yousefkhaled2005/enterprise-ai-inference-engine) |
-| 🦀 **[distributed-vector-engine](https://github.com/yousefkhaled2005/distributed-vector-engine)** | **Rust, Python, TypeScript, Go** (2,100+ files) | Distributed AI vector database with AVX-512 SIMD HNSW indexing, multi-tenant WAL, and gRPC service mesh | [42k queries/sec @ P99 < 1.8ms](https://github.com/yousefkhaled2005/distributed-vector-engine) |
-| 🌊 **[distributed-stream-computing-grid](https://github.com/yousefkhaled2005/distributed-stream-computing-grid)** | **Scala 2.12, Go 1.10, Rust, Python** (2014–2018) | Distributed stream computing grid with Raft cluster consensus, Chandy-Lamport exactly-once snapshots, and zero-copy Rust shuffle | [4.2M events/sec @ P95 < 4.2ms](https://github.com/yousefkhaled2005/distributed-stream-computing-grid) |
-| 📈 **[distributed-lmax-matching-engine](https://github.com/yousefkhaled2005/distributed-lmax-matching-engine)** | **Java 17, C++14, Go, Python** (2008–2014) | Ultra-low latency Level 3 Limit Order Book with cache-line padded LMAX Disruptor, NASDAQ ITCH 5.0 multicast, and Go risk filter | [1.85M orders/sec @ 1.12 µs P99](https://github.com/yousefkhaled2005/distributed-lmax-matching-engine) |
-| 📞 **[telecom-switching-core-c](https://github.com/yousefkhaled2005/telecom-switching-core-c)** | **C (C99), C++, x86 Assembly, Python** (2004–2008) | Carrier-grade PSTN/GSM packet switching exchange with ITU-T Q.763 ISUP state machines, slab memory pools, and binary CDR CRC32 audit | [52,400 CAPS @ < 1.8 µs Latency](https://github.com/yousefkhaled2005/telecom-switching-core-c) |
-
 
 ---
 
@@ -162,7 +182,6 @@
 | 🕸️ **[distributed-crawler-search-index](https://github.com/yousefkhaled2005/distributed-crawler-search-index)** | Distributed web crawler and compressed inverted index search engine with Okapi BM25 & PageRank | C++, Python, VByte Codec, PageRank, BM25 | [78.4% Postings Compression](https://github.com/yousefkhaled2005/distributed-crawler-search-index) |
 | 📡 **[embedded-rtos-telemetry-engine](https://github.com/yousefkhaled2005/embedded-rtos-telemetry-engine)** | Industrial SCADA & RTU lock-free embedded telemetry engine in C99 with Modbus RTU & CAN 2.0B | C99, POSIX, Modbus RTU, CAN 2.0B | [284k pkts/sec, Zero Heap Alloc](https://github.com/yousefkhaled2005/embedded-rtos-telemetry-engine) |
 | ⚙️ **[neural-pid-controller-cpp](https://github.com/yousefkhaled2005/neural-pid-controller-cpp)** | High-performance C++20 neural adaptive PID auto-tuner with SIMD zero-allocation fast math | C++20, Modern CMake, Control Theory | [Zero Steady-State Error](https://github.com/yousefkhaled2005/neural-pid-controller-cpp) |
-
 
 ---
 
@@ -231,4 +250,3 @@ engineering_doctrine:
   <p><b>🐉 "Engineered with rigor. Deployed with precision. Built for scale." ⚡</b></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,10,1,0&height=110&section=footer" width="100%"/>
 </div>
-
