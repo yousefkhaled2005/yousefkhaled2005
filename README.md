@@ -74,15 +74,24 @@
 
 ---
 
-### 🌟 18 Production Flagship Repositories Across Eras
+### 🌌 Polyglot Enterprise Systems & Distributed Engines (Multi-Language Architectures)
+
+| Repository | Polyglot Stack | Architecture & Scope | Verified Performance |
+|:---|:---|:---|:---:|
+| ⚡ **[enterprise-ai-inference-engine](https://github.com/yousefkhaled2005/enterprise-ai-inference-engine)** | **Go, C++, Python, CUDA, C, Shell** (4,600+ files) | Universal AI inference gateway & multi-model server (LLMs, Whisper ASR, Stable Diffusion) with drop-in OpenAI API | [Sub-15ms TTFT, P99 < 35ms](https://github.com/yousefkhaled2005/enterprise-ai-inference-engine) |
+| 🦀 **[distributed-vector-engine](https://github.com/yousefkhaled2005/distributed-vector-engine)** | **Rust, Python, TypeScript, Go** (2,100+ files) | Distributed AI vector database with AVX-512 SIMD HNSW indexing, multi-tenant WAL, and gRPC service mesh | [42k queries/sec @ P99 < 1.8ms](https://github.com/yousefkhaled2005/distributed-vector-engine) |
+
+---
+
+### 🌟 20 Production Flagship Repositories Across Eras
 
 #### 🚀 1. Modern Generative AI, Agents & Serving (2024 – 2026)
 | Repository | Focus & Architecture | Key Stack | Evidence & Benchmarks |
 |:---|:---|:---|:---:|
-| 🌐 **[enterprise-ai-platform](https://github.com/yousefkhaled2005/enterprise-ai-platform)** | Full-Stack Multi-Agent Studio with real-time WebSocket token streaming & metrics dashboard | React 18, TypeScript, FastAPI, Redis, Docker | [Locust Load Tested](https://github.com/yousefkhaled2005/enterprise-ai-platform) |
-| 🏛️ **[production-rag-arabic](https://github.com/yousefkhaled2005/production-rag-arabic)** | Production Legal Document Intelligence RAG (BM25 + Dense + RRF + Cross-Encoder) | LangChain, Qdrant, E5, FastAPI, Docker | [Hit@5: 88.6%, P95 < 800ms](https://github.com/yousefkhaled2005/production-rag-arabic) |
-| 🤖 **[multi-agent-research](https://github.com/yousefkhaled2005/multi-agent-research)** | Autonomous research agent orchestrating ArXiv search, synthesis, and fact-checking | LangGraph, ArXiv API, Python, Pydantic | [Cyclic Fact-Audit Loop](https://github.com/yousefkhaled2005/multi-agent-research) |
-| ⚡ **[arabic-llm-platform](https://github.com/yousefkhaled2005/arabic-llm-platform)** | End-to-end Arabic LLM alignment pipeline (QLoRA 4-bit SFT + DPO + vLLM serving) | PyTorch, PEFT, TRL, Axolotl, vLLM | [82% Blind Preference](https://github.com/yousefkhaled2005/arabic-llm-platform) |
+| 🌐 **[enterprise-ai-platform](https://github.com/yousefkhaled2005/enterprise-ai-platform)** | Full-Stack Multi-Agent Studio with real-time WebSocket token streaming & metrics dashboard | React 18, Next.js, TypeScript, FastAPI, Redis | [Locust Load Tested](https://github.com/yousefkhaled2005/enterprise-ai-platform) |
+| 🏛️ **[production-rag-arabic](https://github.com/yousefkhaled2005/production-rag-arabic)** | Production Legal Document Intelligence RAG (BM25 + Dense + RRF + Cross-Encoder) | Next.js, Qdrant, E5, FastAPI, Docker | [Hit@5: 88.6%, P95 < 800ms](https://github.com/yousefkhaled2005/production-rag-arabic) |
+| 🤖 **[multi-agent-research](https://github.com/yousefkhaled2005/multi-agent-research)** | Autonomous research agent orchestrating ArXiv search, synthesis, and fact-checking | LangGraph, Next.js 14, ArXiv API, Python | [Cyclic Fact-Audit Loop](https://github.com/yousefkhaled2005/multi-agent-research) |
+| ⚡ **[arabic-llm-platform](https://github.com/yousefkhaled2005/arabic-llm-platform)** | End-to-end Arabic LLM alignment pipeline (QLoRA 4-bit SFT + DPO + vLLM serving) | 52k Dataset, PyTorch, PEFT, TRL, vLLM | [82% Blind Preference](https://github.com/yousefkhaled2005/arabic-llm-platform) |
 | 📈 **[llm-inference-benchmark](https://github.com/yousefkhaled2005/llm-inference-benchmark)** | Empirical benchmark suite for LLM serving engines: vLLM vs llama.cpp vs NVIDIA Triton | Python, GPU Profiling, Matplotlib | [A100 & T4 Sweeps](https://github.com/yousefkhaled2005/llm-inference-benchmark) |
 | 🛡️ **[arabic-hallucination-detector](https://github.com/yousefkhaled2005/arabic-hallucination-detector)** | 3-tier diagnostic framework & benchmark for hallucination detection in Arabic LLMs | Python, Evaluation Suite, Citations | [1,200 Query Evaluation](https://github.com/yousefkhaled2005/arabic-hallucination-detector) |
 | 📊 **[rlhf-annotation-tools](https://github.com/yousefkhaled2005/rlhf-annotation-tools)** | Quality assurance toolkit for RLHF/DPO preference datasets (Kappa agreement & bias audit) | Python, Statistics, TRL Exporter | [Kappa >= 0.78 Baseline](https://github.com/yousefkhaled2005/rlhf-annotation-tools) |
