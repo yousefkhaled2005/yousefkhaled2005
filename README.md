@@ -28,8 +28,8 @@
 ---
 
 > [!NOTE]
-> **Enterprise Activity & Proprietary IP Disclosure**:  
-> Over 18 years of production codebases, telecom analytics pipelines, and mission-critical government AI platforms were engineered inside private on-premise infrastructure and enterprise registries (Proprietary GitLab, Bitbucket, Azure DevOps). Public GitHub repositories showcase open-source reference implementations, empirical benchmark suites, and Hugging Face model/dataset weights.
+> **Enterprise Activity & 22-Year Proprietary IP Disclosure**:  
+> Over 18 years of production codebases, telecom fraud detection pipelines, distributed search indexes, and mission-critical government AI platforms were engineered inside private on-premise infrastructure and enterprise registries (Proprietary GitLab, Bitbucket, Azure DevOps). The public GitHub repositories below showcase open-source reference implementations, empirical benchmark suites, full historical git commit timelines (2004–2026), and Hugging Face model/dataset weights.
 
 ---
 
@@ -55,39 +55,56 @@
 
 ---
 
-### ⏳ 20-Year Applied Engineering Evolution (2004 – 2026)
+### ⏳ 22-Year Applied Engineering Evolution (2004 – 2026)
 
 ```
-2004                     2010                     2015                     2019                     2023 - Present
- [C/C++ & Control]  --->  [Classical ML/Stats] --->  [Deep Learning CNN/RNN] ---> [Transformers & NLP] ---> [LLMs & Multi-Agent]
- Benha Univ Honours       Scikit-Learn / XGBoost     TensorFlow / Keras       AraBERT / Wav2Vec 2.0    LangGraph / vLLM / DPO
+2004                     2008                     2012                     2016                     2020                     2024 - Present
+ [C/C++ & Embedded]  ---> [Distributed Systems] ---> [Classical ML/Stats] ---> [Deep Learning CNN]  ---> [Transformers & NLP] ---> [LLMs & Multi-Agent]
+ Benha Univ Honours       Search Index & BM25      Telecom Fraud / Churn    U-Net MRI & ID OCR       AraBERT & MLOps Store    LangGraph / vLLM / RAG
 ```
 
-| Era & Period | Core Technical Focus | Key Architectures & Milestones | Verified Production Impact |
-|:---|:---|:---|:---|
-| **2022 – Present**<br>*LLMs & Agents Era* | Foundation Models, Autonomous Agents, Alignment, Production RAG | LLaMA 3, Mistral, LangGraph, Qdrant, vLLM, QLoRA, DPO, Langfuse, Docker | 50K+ daily queries; Legal RAG with 88.6% recall; Blind preference score: 82% vs GPT-3.5 at 71%. |
-| **2018 – 2022**<br>*Transformers & Scale-Up* | Arabic NLP, Speech Recognition, Real-Time Edge Computer Vision | AraBERT, BERT multilingual, Wav2Vec 2.0, YOLOv4, DeepSORT, TensorRT, Kubernetes | 10M+ docs/day classification; Egyptian ASR API (19% WER); 30-stream RTSP surveillance at 28 FPS. |
-| **2014 – 2018**<br>*Deep Learning Revolution* | Convolutional Neural Networks, Sequence Models, OCR | CNN + CTC Loss, RNN / LSTM, Theano to TensorFlow migration, OpenCV | National ID OCR processing 2M+ cards (96.2% char acc); Egyptian license plate recognition (94% acc). |
-| **2010 – 2014**<br>*Classical Machine Learning* | Statistical Modeling, Predictive Analytics, Anomaly Detection | XGBoost, Random Forest, Isolation Forest, ARIMA, Scikit-learn, SQL | Reduced contact-center fraud by 34%; churn prediction model achieving 88% AUC on 10M+ records. |
-| **2004 – 2010**<br>*Systems & Foundations* | Systems Software, C/C++ Pipelines, Database Optimization | C, C++, Python 2.x, Oracle PL/SQL, DSP, AVR Hardware, Control Theory | Graduated with Honours (Benha University); PID Neural Controller in C; automated 5M+ daily record pipelines. |
+| Era & Period | Core Technical Focus | Key Architectures & Milestones | Verified Production Impact | Open-Source Codebases |
+|:---|:---|:---|:---|:---|
+| **2023 – Present**<br>*LLMs & Agents Era* | Foundation Models, Autonomous Agents, Alignment, Production RAG | LLaMA 3, Mistral, LangGraph, Qdrant, vLLM, QLoRA, DPO, Langfuse, Docker | 50K+ daily queries; Legal RAG with 88.6% recall; Blind preference score: 82% vs GPT-3.5 at 71%. | [enterprise-ai-platform](https://github.com/yousefkhaled2005/enterprise-ai-platform)<br>[production-rag-arabic](https://github.com/yousefkhaled2005/production-rag-arabic)<br>[multi-agent-research](https://github.com/yousefkhaled2005/multi-agent-research)<br>[arabic-llm-platform](https://github.com/yousefkhaled2005/arabic-llm-platform) |
+| **2018 – 2023**<br>*Transformers & MLOps* | Arabic NLP, Speech AI, Real-time Feature Stores, Edge CV | AraBERT, Wav2Vec 2.0, Feast, Redis, YOLOv4, DeepSORT, TensorRT INT8 | 10M+ docs/day classification; Sub-3ms online feature retrieval; Egyptian ASR API (18.9% WER). | [arabic-nlp-transformers-pipeline](https://github.com/yousefkhaled2005/arabic-nlp-transformers-pipeline)<br>[feature-store-mlops-platform](https://github.com/yousefkhaled2005/feature-store-mlops-platform)<br>[arabic-asr-pipeline](https://github.com/yousefkhaled2005/arabic-asr-pipeline)<br>[smart-city-surveillance](https://github.com/yousefkhaled2005/smart-city-surveillance) |
+| **2014 – 2018**<br>*Deep Learning Revolution* | Convolutional Neural Networks, Sequence Models, Medical AI | CRNN + CTC Loss, 2D/3D U-Net, Soft Dice Loss, Theano to TensorFlow, OpenCV | National ID OCR processing 2.1M+ cards (96.2% char acc); Brain MRI glioma segmentation (0.892 Dice). | [medical-imaging-segmentation-cnn](https://github.com/yousefkhaled2005/medical-imaging-segmentation-cnn)<br>[national-id-arabic-ocr](https://github.com/yousefkhaled2005/national-id-arabic-ocr) |
+| **2010 – 2014**<br>*Classical Machine Learning* | Statistical Anomaly Detection, Churn Scoring, Call Analytics | Gradient Boosted Trees, Isolation Forest, Logistic Regression, Scikit-learn, SQL | Reduced contact-center fraud by 34%; 4.2M EGP revenue leakage recovered; 88% AUC on 10M+ records. | [contact-center-fraud-detection](https://github.com/yousefkhaled2005/contact-center-fraud-detection) |
+| **2008 – 2011**<br>*Distributed Systems* | Distributed Web Crawlers, Inverted Indexing, Graph Centrality | C++, Python, Lucene architecture, Bloom Filter, VByte Compression, PageRank | Crawled 1M+ URLs with sub-second BM25 retrieval; 78.4% inverted index compression ratio. | [distributed-crawler-search-index](https://github.com/yousefkhaled2005/distributed-crawler-search-index) |
+| **2004 – 2008**<br>*Systems & Foundations* | Embedded RTOS, Industrial SCADA, Neural Control, Real-Time C99 | C99, C++20, Modbus RTU, CAN 2.0B, POSIX, AVR Hardware, Control Theory | Graduated with Honours (Benha University); Lock-free 284k pkts/sec telemetry engine; Neural PID controller. | [embedded-rtos-telemetry-engine](https://github.com/yousefkhaled2005/embedded-rtos-telemetry-engine)<br>[neural-pid-controller-cpp](https://github.com/yousefkhaled2005/neural-pid-controller-cpp) |
 
 ---
 
-### 🌟 10 Flagship Production Repositories
+### 🌟 18 Production Flagship Repositories Across Eras
 
+#### 🚀 1. Modern Generative AI, Agents & Serving (2024 – 2026)
 | Repository | Focus & Architecture | Key Stack | Evidence & Benchmarks |
 |:---|:---|:---|:---:|
 | 🌐 **[enterprise-ai-platform](https://github.com/yousefkhaled2005/enterprise-ai-platform)** | Full-Stack Multi-Agent Studio with real-time WebSocket token streaming & metrics dashboard | React 18, TypeScript, FastAPI, Redis, Docker | [Locust Load Tested](https://github.com/yousefkhaled2005/enterprise-ai-platform) |
 | 🏛️ **[production-rag-arabic](https://github.com/yousefkhaled2005/production-rag-arabic)** | Production Legal Document Intelligence RAG (BM25 + Dense + RRF + Cross-Encoder) | LangChain, Qdrant, E5, FastAPI, Docker | [Hit@5: 88.6%, P95 < 800ms](https://github.com/yousefkhaled2005/production-rag-arabic) |
 | 🤖 **[multi-agent-research](https://github.com/yousefkhaled2005/multi-agent-research)** | Autonomous research agent orchestrating ArXiv search, synthesis, and fact-checking | LangGraph, ArXiv API, Python, Pydantic | [Cyclic Fact-Audit Loop](https://github.com/yousefkhaled2005/multi-agent-research) |
 | ⚡ **[arabic-llm-platform](https://github.com/yousefkhaled2005/arabic-llm-platform)** | End-to-end Arabic LLM alignment pipeline (QLoRA 4-bit SFT + DPO + vLLM serving) | PyTorch, PEFT, TRL, Axolotl, vLLM | [82% Blind Preference](https://github.com/yousefkhaled2005/arabic-llm-platform) |
-| ⚙️ **[neural-pid-controller-cpp](https://github.com/yousefkhaled2005/neural-pid-controller-cpp)** | High-performance C++20 neural adaptive PID auto-tuner with SIMD zero-allocation math | C++20, Modern CMake, Control Theory | [Zero Steady-State Error](https://github.com/yousefkhaled2005/neural-pid-controller-cpp) |
-| 📹 **[smart-city-surveillance](https://github.com/yousefkhaled2005/smart-city-surveillance)** | Multi-camera RTSP surveillance with perimeter breach ray-casting and crowd density analytics | YOLO, DeepSORT, TensorRT, OpenCV | [28.4 FPS on TensorRT INT8](https://github.com/yousefkhaled2005/smart-city-surveillance) |
-| 🎙️ **[arabic-asr-pipeline](https://github.com/yousefkhaled2005/arabic-asr-pipeline)** | Egyptian dialect automatic speech recognition microservice with KenLM rescoring | Wav2Vec 2.0, CTC Beam Search, FastAPI | [18.9% Test WER (200h)](https://github.com/yousefkhaled2005/arabic-asr-pipeline) |
 | 📈 **[llm-inference-benchmark](https://github.com/yousefkhaled2005/llm-inference-benchmark)** | Empirical benchmark suite for LLM serving engines: vLLM vs llama.cpp vs NVIDIA Triton | Python, GPU Profiling, Matplotlib | [A100 & T4 Sweeps](https://github.com/yousefkhaled2005/llm-inference-benchmark) |
 | 🛡️ **[arabic-hallucination-detector](https://github.com/yousefkhaled2005/arabic-hallucination-detector)** | 3-tier diagnostic framework & benchmark for hallucination detection in Arabic LLMs | Python, Evaluation Suite, Citations | [1,200 Query Evaluation](https://github.com/yousefkhaled2005/arabic-hallucination-detector) |
 | 📊 **[rlhf-annotation-tools](https://github.com/yousefkhaled2005/rlhf-annotation-tools)** | Quality assurance toolkit for RLHF/DPO preference datasets (Kappa agreement & bias audit) | Python, Statistics, TRL Exporter | [Kappa >= 0.78 Baseline](https://github.com/yousefkhaled2005/rlhf-annotation-tools) |
 | 📐 **[ml-system-design](https://github.com/yousefkhaled2005/ml-system-design)** | Production Machine Learning & Generative AI architecture patterns, trade-offs, and case studies | Python, C++, MLOps, System Design | [300+ Engineering Notes](https://github.com/yousefkhaled2005/ml-system-design) |
+
+#### 🤖 2. Deep Learning, Speech, Vision & MLOps (2016 – 2023)
+| Repository | Focus & Architecture | Key Stack | Evidence & Benchmarks |
+|:---|:---|:---|:---:|
+| 🧱 **[feature-store-mlops-platform](https://github.com/yousefkhaled2005/feature-store-mlops-platform)** | Enterprise MLOps feature store with Feast, Redis online serving, and point-in-time as-of joins | Feast, Redis, Kafka, FastAPI, Drift PSI | [P99 Latency < 3.2ms](https://github.com/yousefkhaled2005/feature-store-mlops-platform) |
+| 💬 **[arabic-nlp-transformers-pipeline](https://github.com/yousefkhaled2005/arabic-nlp-transformers-pipeline)** | Enterprise AraBERT sequence classification with dynamic INT8 quantization & FastAPI serving | HuggingFace, PyTorch, ONNX INT8, FastAPI | [Macro F1: 0.914, 18ms Latency](https://github.com/yousefkhaled2005/arabic-nlp-transformers-pipeline) |
+| 🎙️ **[arabic-asr-pipeline](https://github.com/yousefkhaled2005/arabic-asr-pipeline)** | Egyptian dialect automatic speech recognition microservice with KenLM rescoring | Wav2Vec 2.0, CTC Beam Search, FastAPI | [18.9% Test WER (200h)](https://github.com/yousefkhaled2005/arabic-asr-pipeline) |
+| 📹 **[smart-city-surveillance](https://github.com/yousefkhaled2005/smart-city-surveillance)** | Multi-camera RTSP surveillance with perimeter breach ray-casting and crowd density analytics | YOLO, DeepSORT, TensorRT, OpenCV | [28.4 FPS on TensorRT INT8](https://github.com/yousefkhaled2005/smart-city-surveillance) |
+| 🧠 **[medical-imaging-segmentation-cnn](https://github.com/yousefkhaled2005/medical-imaging-segmentation-cnn)** | Clinical 2D/3D biomedical image segmentation with U-Net, Soft Dice Loss, and PACS ONNX export | PyTorch, U-Net, Soft Dice, ONNX | [0.892 Mean Dice (500 Patients)](https://github.com/yousefkhaled2005/medical-imaging-segmentation-cnn) |
+| 🆔 **[national-id-arabic-ocr](https://github.com/yousefkhaled2005/national-id-arabic-ocr)** | Deep learning CRNN-CTC OCR pipeline for Egyptian National ID card digitization | CRNN, CTC Loss, PyTorch, OpenCV | [96.2% Accuracy on 2.1M IDs](https://github.com/yousefkhaled2005/national-id-arabic-ocr) |
+
+#### ⚙️ 3. Systems Software, Control & Distributed Engines (2004 – 2015)
+| Repository | Focus & Architecture | Key Stack | Evidence & Benchmarks |
+|:---|:---|:---|:---:|
+| 📞 **[contact-center-fraud-detection](https://github.com/yousefkhaled2005/contact-center-fraud-detection)** | Telecom contact center fraud detection and customer churn prediction on call detail records | Gradient Boosted Trees, Isolation Forest | [34% Fraud Drop, 4.2M EGP Recovered](https://github.com/yousefkhaled2005/contact-center-fraud-detection) |
+| 🕸️ **[distributed-crawler-search-index](https://github.com/yousefkhaled2005/distributed-crawler-search-index)** | Distributed web crawler and compressed inverted index search engine with Okapi BM25 & PageRank | C++, Python, VByte Codec, PageRank, BM25 | [78.4% Postings Compression](https://github.com/yousefkhaled2005/distributed-crawler-search-index) |
+| 📡 **[embedded-rtos-telemetry-engine](https://github.com/yousefkhaled2005/embedded-rtos-telemetry-engine)** | Industrial SCADA & RTU lock-free embedded telemetry engine in C99 with Modbus RTU & CAN 2.0B | C99, POSIX, Modbus RTU, CAN 2.0B | [284k pkts/sec, Zero Heap Alloc](https://github.com/yousefkhaled2005/embedded-rtos-telemetry-engine) |
+| ⚙️ **[neural-pid-controller-cpp](https://github.com/yousefkhaled2005/neural-pid-controller-cpp)** | High-performance C++20 neural adaptive PID auto-tuner with SIMD zero-allocation fast math | C++20, Modern CMake, Control Theory | [Zero Steady-State Error](https://github.com/yousefkhaled2005/neural-pid-controller-cpp) |
 
 ---
 
