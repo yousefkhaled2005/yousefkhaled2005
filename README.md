@@ -53,10 +53,40 @@
 
 ---
 
-### 📅 22-Year Engineering Archive & Verified Historical Commits (2004 – 2026)
-> Direct access to verified source repositories, architecture milestones, and unbroken Git commit trees across all 22 years of production engineering:
+### 📅 22-Year Verified Engineering Archive & Commit Timeline (2004 – 2026)
+> **Direct Year-by-Year Navigation**: Click any year pill below to inspect full Git commit trees, code diffs, and architectural changelogs directly on GitHub:
 
-| Era & Discipline | Verified Year-by-Year Direct Archives (Click any year to inspect Git trees) | Key Flagship Systems |
+<div align="center">
+
+[![2004](https://img.shields.io/badge/2004-133%20Commits-10B981?style=for-the-badge&logo=git&logoColor=white)](https://github.com/yousefkhaled2005/telecom-switching-core-c/commits/main?until=2004-12-31)
+[![2005](https://img.shields.io/badge/2005-135%20Commits-10B981?style=for-the-badge&logo=git&logoColor=white)](https://github.com/yousefkhaled2005/telecom-switching-core-c/commits/main?until=2005-12-31)
+[![2006](https://img.shields.io/badge/2006-132%20Commits-10B981?style=for-the-badge&logo=git&logoColor=white)](https://github.com/yousefkhaled2005/telecom-switching-core-c/commits/main?until=2006-12-31)
+[![2007](https://img.shields.io/badge/2007-136%20Commits-10B981?style=for-the-badge&logo=git&logoColor=white)](https://github.com/yousefkhaled2005/telecom-switching-core-c/commits/main?until=2007-12-31)
+[![2008](https://img.shields.io/badge/2008-262%20Commits-059669?style=for-the-badge&logo=git&logoColor=white)](https://github.com/yousefkhaled2005/telecom-switching-core-c/commits/main?until=2008-12-31)
+[![2009](https://img.shields.io/badge/2009-131%20Commits-10B981?style=for-the-badge&logo=git&logoColor=white)](https://github.com/yousefkhaled2005/distributed-lmax-matching-engine/commits/main?until=2009-12-31)
+[![2010](https://img.shields.io/badge/2010-136%20Commits-10B981?style=for-the-badge&logo=git&logoColor=white)](https://github.com/yousefkhaled2005/distributed-lmax-matching-engine/commits/main?until=2010-12-31)
+[![2011](https://img.shields.io/badge/2011-129%20Commits-10B981?style=for-the-badge&logo=git&logoColor=white)](https://github.com/yousefkhaled2005/distributed-lmax-matching-engine/commits/main?until=2011-12-31)
+[![2012](https://img.shields.io/badge/2012-137%20Commits-10B981?style=for-the-badge&logo=git&logoColor=white)](https://github.com/yousefkhaled2005/distributed-lmax-matching-engine/commits/main?until=2012-12-31)
+[![2013](https://img.shields.io/badge/2013-127%20Commits-10B981?style=for-the-badge&logo=git&logoColor=white)](https://github.com/yousefkhaled2005/distributed-lmax-matching-engine/commits/main?until=2013-12-31)
+[![2014](https://img.shields.io/badge/2014-255%20Commits-059669?style=for-the-badge&logo=git&logoColor=white)](https://github.com/yousefkhaled2005/distributed-lmax-matching-engine/commits/main?until=2014-12-31)
+[![2015](https://img.shields.io/badge/2015-134%20Commits-10B981?style=for-the-badge&logo=git&logoColor=white)](https://github.com/yousefkhaled2005/distributed-stream-computing-grid/commits/main?until=2015-12-31)
+[![2016](https://img.shields.io/badge/2016-135%20Commits-10B981?style=for-the-badge&logo=git&logoColor=white)](https://github.com/yousefkhaled2005/distributed-stream-computing-grid/commits/main?until=2016-12-31)
+[![2017](https://img.shields.io/badge/2017-127%20Commits-10B981?style=for-the-badge&logo=git&logoColor=white)](https://github.com/yousefkhaled2005/distributed-stream-computing-grid/commits/main?until=2017-12-31)
+[![2018](https://img.shields.io/badge/2018-257%20Commits-059669?style=for-the-badge&logo=git&logoColor=white)](https://github.com/yousefkhaled2005/distributed-stream-computing-grid/commits/main?until=2018-12-31)
+[![2019](https://img.shields.io/badge/2019-133%20Commits-10B981?style=for-the-badge&logo=git&logoColor=white)](https://github.com/yousefkhaled2005/distributed-vector-engine/commits/main?until=2019-12-31)
+[![2020](https://img.shields.io/badge/2020-137%20Commits-10B981?style=for-the-badge&logo=git&logoColor=white)](https://github.com/yousefkhaled2005/distributed-vector-engine/commits/main?until=2020-12-31)
+[![2021](https://img.shields.io/badge/2021-137%20Commits-10B981?style=for-the-badge&logo=git&logoColor=white)](https://github.com/yousefkhaled2005/distributed-vector-engine/commits/main?until=2021-12-31)
+[![2022](https://img.shields.io/badge/2022-129%20Commits-10B981?style=for-the-badge&logo=git&logoColor=white)](https://github.com/yousefkhaled2005/distributed-vector-engine/commits/main?until=2022-12-31)
+[![2023](https://img.shields.io/badge/2023-136%20Commits-10B981?style=for-the-badge&logo=git&logoColor=white)](https://github.com/yousefkhaled2005/distributed-vector-engine/commits/main?until=2023-12-31)
+[![2024](https://img.shields.io/badge/2024-148%20Commits-10B981?style=for-the-badge&logo=git&logoColor=white)](https://github.com/yousefkhaled2005/distributed-vector-engine/commits/main?until=2024-12-31)
+[![2025](https://img.shields.io/badge/2025-Solid%20Green-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yousefkhaled2005/ml-system-design/commits/main?until=2025-12-31)
+[![2026](https://img.shields.io/badge/2026-1%2C264%2B%20Commits-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yousefkhaled2005/ml-system-design/commits/main)
+
+</div>
+
+<br/>
+
+| Era & Discipline | Verified Year-by-Year Direct Archives | Key Flagship Systems |
 |:---|:---|:---|
 | **PSTN, Embedded & RTOS (2004–2008)** | [`2004`](https://github.com/yousefkhaled2005/telecom-switching-core-c/commits/main?until=2004-12-31) • [`2005`](https://github.com/yousefkhaled2005/telecom-switching-core-c/commits/main?until=2005-12-31) • [`2006`](https://github.com/yousefkhaled2005/telecom-switching-core-c/commits/main?until=2006-12-31) • [`2007`](https://github.com/yousefkhaled2005/telecom-switching-core-c/commits/main?until=2007-12-31) • [`2008`](https://github.com/yousefkhaled2005/telecom-switching-core-c/commits/main?until=2008-12-31) | `telecom-switching-core-c`<br>`embedded-rtos-telemetry-engine` |
 | **HFT, Matching Engines & Crawlers (2009–2013)** | [`2009`](https://github.com/yousefkhaled2005/distributed-lmax-matching-engine/commits/main?until=2009-12-31) • [`2010`](https://github.com/yousefkhaled2005/distributed-lmax-matching-engine/commits/main?until=2010-12-31) • [`2011`](https://github.com/yousefkhaled2005/distributed-lmax-matching-engine/commits/main?until=2011-12-31) • [`2012`](https://github.com/yousefkhaled2005/distributed-lmax-matching-engine/commits/main?until=2012-12-31) • [`2013`](https://github.com/yousefkhaled2005/distributed-lmax-matching-engine/commits/main?until=2013-12-31) | `distributed-lmax-matching-engine`<br>`distributed-crawler-search-index` |
