@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/yousefkhaled2005/yousef-khaled-cv/releases/download/v2026.1/Yousef_Khaled_Senior_AI_Architect_CV.pdf">
+  <a href="https://github.com/yousefkhaled2005/yousef-khaled-cv/releases/latest/download/Yousef_Khaled_Senior_AI_Architect_CV.pdf">
     <img src="https://img.shields.io/badge/📄%20Curriculum%20Vitae-Download%20Executive%20PDF-00D9FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download PDF CV">
   </a>
   <a href="https://github.com/yousefkhaled2005/yousef-khaled-cv">
