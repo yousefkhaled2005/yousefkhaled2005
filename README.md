@@ -32,6 +32,13 @@
   <a href="https://github.com/yousefkhaled2005"><img src="https://komarev.com/ghpvc/?username=yousefkhaled2005&label=PROFILE+VIEWS&style=for-the-badge&color=00D9FF" alt="Profile Views" /></a>
 </p>
 
+<div align="center">
+  <!-- 3D Polyglot & AI Arsenal Icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,c,cuda,rust,go,pytorch,tensorflow,fastapi,docker,kubernetes,gcp,aws,linux,redis,postgres,react,ts,git,github&theme=dark&perline=10" alt="Core Polyglot & AI Arsenal" />
+  </a>
+</div>
+
 ---
 
 ### 🤖 Frontier AI Model Training, RLHF & LLM Alignment Platforms (Industry Track Record)
