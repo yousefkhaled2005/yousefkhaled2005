@@ -278,6 +278,9 @@
 | 📹 **[smart-city-surveillance](https://github.com/yousefkhaled2005/smart-city-surveillance)** | Multi-camera RTSP surveillance with perimeter breach ray-casting and crowd density analytics | YOLO, DeepSORT, TensorRT, OpenCV | [28.4 FPS on TensorRT INT8](https://github.com/yousefkhaled2005/smart-city-surveillance) |
 | 🧠 **[medical-imaging-segmentation-cnn](https://github.com/yousefkhaled2005/medical-imaging-segmentation-cnn)** | Clinical 2D/3D biomedical image segmentation with U-Net, Soft Dice Loss, and PACS ONNX export | PyTorch, U-Net, Soft Dice, ONNX | [0.892 Mean Dice (500 Patients)](https://github.com/yousefkhaled2005/medical-imaging-segmentation-cnn) |
 | 🆔 **[national-id-arabic-ocr](https://github.com/yousefkhaled2005/national-id-arabic-ocr)** | Deep learning CRNN-CTC OCR pipeline for Egyptian National ID card digitization | CRNN, CTC Loss, PyTorch, OpenCV | [96.2% Accuracy on 2.1M IDs](https://github.com/yousefkhaled2005/national-id-arabic-ocr) |
+| 📊 **[arabic-bert-benchmark](https://github.com/yousefkhaled2005/arabic-bert-benchmark)** | AraBERT vs mBERT systematic empirical benchmark across Sentiment, NER, QA & Dialect ID | PyTorch, Transformers, Datasets | [AraBERT-v2 +11% F1 Advantage](https://github.com/yousefkhaled2005/arabic-bert-benchmark) |
+| 🌍 **[arabic-dialect-dataset](https://github.com/yousefkhaled2005/arabic-dialect-dataset)** | 5,000-sentence multi-dialectal Arabic evaluation benchmark (Egyptian, Gulf, Levantine, Maghrebi, MSA) | Datasets, Scikit-learn, JSONL | [Fleiss' Kappa $\kappa = 0.84$](https://github.com/yousefkhaled2005/arabic-dialect-dataset) |
+| 🏪 **[yolov4-arabic-ocr](https://github.com/yousefkhaled2005/yolov4-arabic-ocr)** | Real-time scene text detection & CRNN-CTC cursive recognition for Arabic storefronts | YOLOv4, PyTorch, CRNN, OpenCV | [mAP@0.5 = 0.79, 47.6 FPS](https://github.com/yousefkhaled2005/yolov4-arabic-ocr) |
 
 #### ⚙️ 3. Systems Software, Control & Distributed Engines (2004 – 2018)
 | Repository | Focus & Architecture | Key Stack | Evidence & Benchmarks |
@@ -292,12 +295,18 @@
 
 ---
 
-### 🤗 Published Hugging Face Models & Datasets
+### 🤗 Published Hugging Face Models & Datasets (8 Models · 4 Datasets)
 
 | Type | Resource | Description & Metrics | Direct Link |
 |:---:|:---|:---|:---:|
+| 🐪 **Model** | `Yousef1258852/llama3-arabic-instruct` | QLoRA fine-tuned Arabic instruction LLM (82.0% blind win rate vs GPT-3.5) | [View Model Card](https://huggingface.co/Yousef1258852/llama3-arabic-instruct) |
+| 🛡️ **Model** | `Yousef1258852/arabic-hallucination-detector` | 3-tier factual hallucination detector & discriminator (Macro F1 = 0.915) | [View Model Card](https://huggingface.co/Yousef1258852/arabic-hallucination-detector) |
+| 🏷️ **Model** | `Yousef1258852/arabic-ner-v2` | High-precision Arabic Named Entity Recognizer (PER/ORG/LOC/DATE, F1 = 0.928) | [View Model Card](https://huggingface.co/Yousef1258852/arabic-ner-v2) |
+| 🎙️ **Model** | `Yousef1258852/wav2vec2-egyptian-arabic` | Egyptian dialect acoustic speech-to-text model (18.9% test WER on 200h corpus) | [View Model Card](https://huggingface.co/Yousef1258852/wav2vec2-egyptian-arabic) |
 | 🤖 **Model** | `Yousef1258852/arabert-sentiment-v2` | Fine-tuned AraBERT Arabic sentiment classifier (Macro F1 = 0.914) | [View Model Card](https://huggingface.co/Yousef1258852/arabert-sentiment-v2) |
-| 🌍 **Model** | `Yousef1258852/arabic-dialect-classifier` | 5-class Arabic dialect identification (EGY, GLF, LEV, MAG, MSA) | [View Model Card](https://huggingface.co/Yousef1258852/arabic-dialect-classifier) |
+| 🌍 **Model** | `Yousef1258852/arabic-dialect-classifier` | 5-class Arabic dialect identification (EGY, GLF, LEV, NOR, MSA, F1 = 0.870) | [View Model Card](https://huggingface.co/Yousef1258852/arabic-dialect-classifier) |
+| 📰 **Model** | `Yousef1258852/arabert-summarization-news` | Abstractive Arabic news summarizer trained on 150k+ articles (ROUGE-1 = 41.2) | [View Model Card](https://huggingface.co/Yousef1258852/arabert-summarization-news) |
+| 🩺 **Model** | `Yousef1258852/arabic-medical-qa-bert` | Biomedical clinical question-answering for Arabic healthcare (F1 = 0.862) | [View Model Card](https://huggingface.co/Yousef1258852/arabic-medical-qa-bert) |
 | 📊 **Dataset** | `Yousef1258852/arabic-dialect-eval-1k` | 1,000 balanced benchmark sentences for multi-dialectal evaluation | [Explore Dataset](https://huggingface.co/datasets/Yousef1258852/arabic-dialect-eval-1k) |
 | 🎯 **Dataset** | `Yousef1258852/arabic-rlhf-preferences` | 1,000 paired preference dataset for DPO/RLHF alignment (Legal, Health, AI) | [Explore Dataset](https://huggingface.co/datasets/Yousef1258852/arabic-rlhf-preferences) |
 | ⚖️ **Dataset** | `Yousef1258852/egyptian-legal-corpus-250` | 250 curated Egyptian statutes across labor, commercial, and civil codes | [Explore Dataset](https://huggingface.co/datasets/Yousef1258852/egyptian-legal-corpus-250) |
