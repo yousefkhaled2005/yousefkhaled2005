@@ -19,6 +19,9 @@
   <a href="https://github.com/yousefkhaled2005/yousef-khaled-cv">
     <img src="https://img.shields.io/badge/📑%20Official%20CV%20Repository-Interactive%20Resume%20%26%20Releases-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Official CV Repository">
   </a>
+  <a href="https://github.com/yousefkhaled2005/professional-ai-web-components">
+    <img src="https://img.shields.io/badge/⚡%20Flagship%20Suite-Professional%20AI%20Web%20Components%20(React%20%2B%20Shaders)-8B5CF6?style=for-the-badge&logo=react&logoColor=white" alt="Professional AI Web Components">
+  </a>
 </div>
 
 <p align="center">
